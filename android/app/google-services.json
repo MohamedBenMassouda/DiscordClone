@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640330059482",
+    "project_id": "discordclone-b7010",
+    "storage_bucket": "discordclone-b7010.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640330059482:android:cb1a44eee78270ed5adfe3",
+        "android_client_info": {
+          "package_name": "com.example.discord_clone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS22UvU6rXqLDKBR4jahZwAwLuRZxHxMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
